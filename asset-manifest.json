@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1604ba4a.css",
-    "main.js": "/static/js/main.c9e212e9.js",
+    "main.js": "/static/js/main.903b6c78.js",
     "static/media/noto-serif-tc-110-400-normal.woff": "/static/media/noto-serif-tc-110-400-normal.27642221fd858ba07aa6.woff",
     "static/media/noto-serif-tc-111-400-normal.woff": "/static/media/noto-serif-tc-111-400-normal.16fb988d8dffd578364f.woff",
     "static/media/noto-serif-tc-112-400-normal.woff": "/static/media/noto-serif-tc-112-400-normal.07151a6b1924c9a75988.woff",
@@ -204,10 +204,10 @@
     "static/media/noto-serif-tc-97-400-normal.woff2": "/static/media/noto-serif-tc-97-400-normal.16889ca2aefe2c149649.woff2",
     "index.html": "/index.html",
     "main.1604ba4a.css.map": "/static/css/main.1604ba4a.css.map",
-    "main.c9e212e9.js.map": "/static/js/main.c9e212e9.js.map"
+    "main.903b6c78.js.map": "/static/js/main.903b6c78.js.map"
   },
   "entrypoints": [
     "static/css/main.1604ba4a.css",
-    "static/js/main.c9e212e9.js"
+    "static/js/main.903b6c78.js"
   ]
 }
